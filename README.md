@@ -10,7 +10,8 @@ nonewind 的博客
 
 ### 最新
 
-* [世界，你好！](http://aj-hunter.xyz:8083/hello-solo)
+* [Python 避免踩坑](http://aj-hunter.xyz:8083/articles/2019/09/18/1568774761283.html)
+* [Python 开发 从入门到猝死](http://aj-hunter.xyz:8083/articles/2019/09/18/1568774094616.html)
 
 
 
