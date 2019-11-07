@@ -12,7 +12,6 @@ nonewind 的博客
 
 * [Python 实际运用中的一些坑](http://aj-hunter.xyz:8083/articles/2019/10/22/1571747852541.html)
 * [Python 避免踩坑](http://aj-hunter.xyz:8083/articles/2019/09/18/1568774761283.html)
-* [Python 开发 从入门到猝死](http://aj-hunter.xyz:8083/articles/2019/09/18/1568774094616.html)
 
 
 
