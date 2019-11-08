@@ -10,6 +10,7 @@ nonewind 的博客
 
 ### 最新
 
+* [造一个根据地图选点的flask前端 ](http://aj-hunter.xyz:8083/articles/2019/11/07/1573114720735.html)
 * [Python 实际运用中的一些坑](http://aj-hunter.xyz:8083/articles/2019/10/22/1571747852541.html)
 * [Python 避免踩坑](http://aj-hunter.xyz:8083/articles/2019/09/18/1568774761283.html)
 
